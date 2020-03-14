@@ -1,6 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-Xavier Valdayron  
-30 March 2017  
+ 
 
 #INTRODUCTION
 
